@@ -36,7 +36,7 @@ void key_task(void *pdata);
 OS_EVENT *sem0;
 OS_EVENT *sem1;
 
-
+//
 int main()
 {
 	//SystemInit();
